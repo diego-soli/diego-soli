@@ -45,4 +45,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/diego-soli)](www.linkedin.com/in/diego-soli)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ddigson@gmail.com)](mailto:ddigson@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/diego-soli)
+[![GitHub](https://img.shields.io/github/followers/diego-soli?label=follow&style=social)](https://github.com/diego-soli)
